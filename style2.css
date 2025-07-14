@@ -139,7 +139,7 @@ body{
 /* ---  Main Section --- */
   .kokoy-hero {
     background: linear-gradient(rgba(70, 70, 70, 0.704), rgba(70, 70, 70, 0.704)),
-    url("..Midterm/images/fam.png");
+    url("../Midterm/images/fam.png");
     position: relative;
     overflow: hidden;
     background-size: cover;
